@@ -43,3 +43,4 @@ The game uses a graphics library to create a visual representation of:
 
 ## IT LOOK SOMETHING LIKE THIS:
 ![SNAKE AND LADDER GAME] 
+(Snake and ladder Game.png)
