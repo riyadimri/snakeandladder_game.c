@@ -41,3 +41,5 @@ The game uses a graphics library to create a visual representation of:
 - Dice
 - Player positions
 
+## IT LOOK SOMETHING LIKE THIS:
+![SNAKE AND LADDER GAME] 
